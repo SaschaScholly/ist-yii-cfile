@@ -28,5 +28,10 @@
     "support": {
         "issues": "https://github.com/idlesign/ist-yii-cfile/issues",
         "source": "https://github.com/idlesign/ist-yii-cfile"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
     }
 }
