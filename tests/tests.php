@@ -1,8 +1,5 @@
 <?php
 
-require_once '../CFileHelper.php';
-
-
 class CFileHelperTests extends PHPUnit_Framework_TestCase {
 
     public function setUp() {
