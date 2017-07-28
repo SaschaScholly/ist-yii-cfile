@@ -1,5 +1,7 @@
 <?php
 
+use idlesign\CFileHelper;
+
 class CFileHelperTest extends PHPUnit_Framework_TestCase {
 
     public function setUp() {
