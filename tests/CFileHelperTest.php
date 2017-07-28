@@ -1,6 +1,6 @@
 <?php
 
-class CFileHelperTests extends PHPUnit_Framework_TestCase {
+class CFileHelperTest extends PHPUnit_Framework_TestCase {
 
     public function setUp() {
         $this->filename = 'cfile_test_tmp_' . uniqid();

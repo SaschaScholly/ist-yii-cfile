@@ -16,6 +16,9 @@
     "require": {
         "php": ">=5.1.0"
     },
+    "require-dev": {
+        "phpunit/phpunit": "5.*.*"
+    },
     "suggest": {
         "yiisoft/yii": "CFile can function as Yii extension"
     },
