@@ -1,4 +1,6 @@
 <?php
+
+namespace idlesign;
 /**
  * CFile provides common methods to manipulate filesystem objects (files and
  * directories) from Yii Framework (http://www.yiiframework.com).
@@ -12,11 +14,6 @@
  * @copyright Copyright &copy; 2009-2013 Igor 'idle sign' Starikov
  * @license LICENSE
  */
-
-
-/* Exception type raised by CFile. */
-class CFileException extends Exception {}
-
 
 /**
  * Base CFile class built to work with Yii.
